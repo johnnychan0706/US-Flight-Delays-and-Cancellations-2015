@@ -12,7 +12,7 @@
 - The Airports with the highest percentage of flight cancellations are mainly large airports like JF.Kennedy Airport in New York, Los Angeles Airport etc.
 
 ## Data Wrangling and Cleaning
-###Conducted simpe data wrangling and cleanings
+### Conducted simpe data wrangling and cleanings
 - Removed rows with missing critical flight data such as time of departure and cancellation data
 - Joined flights, airlines and airports
 
